@@ -24,6 +24,11 @@
 </div>
 
 ---
+## 📸 Demo
+
+| Reference Detection | Height Measurement |
+|---|---|
+| ![ref fail](docs/images/ref_detection_fail.png) | ![height](docs/images/height_detection.png) |
 
 ## 📌 Project Overview
 
