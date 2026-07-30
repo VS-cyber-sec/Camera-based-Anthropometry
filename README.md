@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- Banner -->
-<img src="docs/images/banner.png" alt="Camera Based Anthropometry" width="100%"/>
 
 # 📐 Camera-Based Anthropometry System
 
@@ -15,7 +13,7 @@
 [![IFP Capstone](https://img.shields.io/badge/IFP-Capstone%20Project-blueviolet?style=flat-square)]()
 
 *Capstone Internship Project — Impact Fellowship Program (IFP)*
-*Author: **Vaishnavi Chavan** · PDEA's College of Engineering, Pune*
+*Author: **Vaishnavi Chavan**
 
 ---
 
@@ -446,7 +444,7 @@ See [`docs/CHANGELOG.md`](docs/CHANGELOG.md) for full version history.
 
 - **Impact Fellowship Program (IFP)** — Project brief and mentorship
 - **RCTS, IIIT Hyderabad** — Development environment and supervision
-- **PDEA's College of Engineering, Pune** — Academic support
+
 
 ---
 
